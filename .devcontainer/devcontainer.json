@@ -18,7 +18,7 @@
       "settings": {
         "engine.runByExtension": false,
         "engine.url": "http://localhost:8080/",
-        "engine.directory": "/usr/lib/axonivy-engine"
+        "engine.directory": "/ivy"
       }
     }
   }
